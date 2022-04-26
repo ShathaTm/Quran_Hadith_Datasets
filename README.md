@@ -1,5 +1,8 @@
 # Quran_Hadith_Datasets
-This repository includes the QQ and QH datasets as described in the paper "Challenging the Transformer-based models with a Classical Arabic dataset: Quran and Hadith"
+This repository includes the QQ and QH datasets as described in the paper:
+
+Altammami, S., Atwell, E.(2022) 'Challenging the Transformer-based models with a Classical Arabic dataset: Quran and Hadith'. Proceedings of the 13th Conference on Language Resources and Evaluation (LREC 2022). Marseille, 20–25 June 2022. 
+
 
 ### QH_Dataset.csv
 Contains 310 balanced set of related and non-related Quran-verse and Hadith-teaching pairs. 
