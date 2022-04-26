@@ -7,7 +7,7 @@ Contains 310 balanced set of related and non-related Quran-verse and Hadith-teac
 ### QQ_Ar_training_4072.csv 
 Contains 4072 balanced set of related and non-related Quran-verse pairs. 
 
-### QQ_Ar_tafser_training_8144.csv
+### QQ_Ar_tafseer_training_8144.csv
 Contains the Arabic Tafseer from Aljlyleen and Almuyaser of each pair in the QQ_Ar_training_4072.csv dataset.
 
 ### QQ_En_training_20360.csv
